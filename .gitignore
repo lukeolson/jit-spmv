@@ -3,3 +3,4 @@ __pycache__/
 build/
 spmv.cpython-37m-darwin.so
 var/
+.*.swp
