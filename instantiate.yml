@@ -1,6 +1,0 @@
-instantiate:
-- types:
-    - null
-  functions:
-    - spmv
-
